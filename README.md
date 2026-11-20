@@ -18,6 +18,7 @@
 | **Left Mouse (Hold)** | Spawn particles |
 | **Left / Right Arrow** | Decrease / increase brush range (`1`–`5`) |
 | **Esc / Close Window** | Exit simulation |
+| **R** | Reset sand positions |
 
 ---
 

@@ -91,6 +91,7 @@ int main(){
 
         if(IsKeyPressed(KEY_RIGHT) && range < 5)range++;
         if(IsKeyPressed(KEY_LEFT) && range > 1)range--;
+        if(IsKeyPressed(KEY_R))Reset();
 
         Update();
 
